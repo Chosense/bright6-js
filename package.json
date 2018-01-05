@@ -1,8 +1,7 @@
 {
   "name": "bright6-js",
   "version": "0.1.0",
-  "description": "bright6-js\r ==========",
-  "main": "index.js",
+  "description": "A JavaScript library for working with Bright 6 enabled SharePoint Online modern sites.",
   "directories": {
     "doc": "docs"
   },
