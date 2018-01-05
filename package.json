@@ -1,0 +1,14 @@
+{
+  "name": "bright6-js",
+  "version": "0.1.0",
+  "description": "bright6-js\r ==========",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chosense Inc",
+  "license": "ISC"
+}
