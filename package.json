@@ -6,8 +6,18 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
   },
   "author": "Chosense Inc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "msal-js-extensions": "github:chosense/msal-js-extensions"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  }
 }
